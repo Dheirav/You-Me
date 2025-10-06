@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912254326885",
+    "project_id": "youme-7757a",
+    "storage_bucket": "youme-7757a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912254326885:android:c17907274fc282762a8e8c",
+        "android_client_info": {
+          "package_name": "com.example.youme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbK4b5cKbFbo4KkrtDUw23LfGtmHWvyIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
